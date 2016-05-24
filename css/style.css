@@ -1,3 +1,12 @@
 .breanna-yde {
   margin-top: 25px;
 }
+
+.line {
+  content: '';
+  display: block;
+  width: 50px;
+  margin: 70px auto 50px;
+  background-color: #1C355B;
+  height: 3px;
+}
