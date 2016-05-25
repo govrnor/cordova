@@ -22,3 +22,7 @@
   background-color: #1C355B;
   height: 3px;
 }
+
+.btn-info {
+  text-transform: uppercase !important;
+}
