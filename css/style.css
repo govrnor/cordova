@@ -8,6 +8,12 @@
   }
 }
 
+@media only screen and (min-width: 740px) {
+  .breanna-yde {
+    width: 720px;
+  }
+}
+
 .line {
   content: '';
   display: block;
