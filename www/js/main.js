@@ -1,7 +1,7 @@
 var app = new Framework7();
 
 function evolusi(nama) {
-	var folder = '../img/evolusi' + String(nama);
+	var folder = '../img/evolusi' + nama + '/';
 	var dulu = folder + 'dulu.jpg';
 	var sekarang = folder + 'sekarang.jpg';
 
