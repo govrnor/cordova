@@ -12,4 +12,11 @@
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
+    <platform name="android">
+        <icon src="www/img/logo.png" density="mdpi"/>
+        <icon src="www/img/logo.png" density="hdpi"/>
+        <icon src="www/img/logo.png" density="xhdpi"/>
+        <icon src="www/img/logo.png" density="xxhdpi"/>
+        <icon src="www/img/logo.png" density="xxxhdpi"/>
+    </platform>         
 </widget>
