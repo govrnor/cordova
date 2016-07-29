@@ -10,3 +10,7 @@ function evolusi(nama) {
 	    photos: [dulu, sekarang]
 	}); 
 }
+
+function register() {
+	app.alert("Succesfully register your account.")
+}
